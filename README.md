@@ -1,60 +1,84 @@
+<!-- Profile README for Harshit Yadav -->
+<h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
 
-# Hi 👋, I'm Santosh Sharma  
+<h3 align="center">🚀 Computer Science Student at VIT Bhopal | Data Analytics & Web Development Enthusiast</h3>
 
-### 🚀 *Computer Science Student at VIT Bhopal | Coding Enthusiast*  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+VIT+Bhopal;Data+Analytics+%7C+Web+Development+%7C+Python;Always+learning+new+technologies+💡;Let's+build+something+amazing+together+🚀" alt="Typing SVG">
+</p>
 
-> "Santosh Sharma: Computer Science Student at Vellore Institute of Technology, Bhopal.  
-> Passionate about coding and exploring the world of technology.  
-> Eager to contribute to open-source projects and enhance my skills.  
-> Let's collaborate and create innovative solutions together!"  
+---
+
+> 🎯 *"Passionate about coding, data analytics, and solving real-world problems using technology.  
+> Eager to collaborate on innovative projects, contribute to open-source, and expand my technical expertise!"*
 
 ---
 
 ### 🌱 Skills  
-**Java | Flutter | Data Structures & Algorithms | Web Development | Data Analytics | Python | Power BI | SQL | MS Excel**
+**Java | Python | Data Structures & Algorithms | Web Development (HTML, CSS, JS, Bootstrap, Tailwind) | Data Analytics (NumPy, Pandas, Matplotlib, Seaborn) | SQL | Streamlit | MS Excel | API Integration**
 
 ---
 
 ### 💬 Ask me about  
-Anything related to **tech, coding, or data projects** — I love discussing ideas and solving problems!
+Anything related to **Python, Data Analytics, Web Development, or Projects** — I love discussing ideas and solving challenges together!
 
 ---
 
 ### 📫 How to reach me  
-📧 [07santoshsharma2004@gmail.com](mailto:07santoshsharma2004@gmail.com)  
+📧 [raoharshit202@gmail.com](mailto:raoharshit202@gmail.com)  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/santosh-sharma-a57026220/)  
-🐙 [GitHub](https://github.com/Santoshsharm07)  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshit-yadav-330085293/)  
+🐙 [GitHub](https://github.com/Harshitvit)  
 
 ---
 
 ### ⚡ Fun fact  
-I still don’t know what my next big project will be — but I’m already excited for it! 😄  
+I love exploring new technologies — and sometimes spend more time debugging than coding 😄  
 
 ---
 
 ### 🛠️ Languages and Tools  
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santoshsharm07&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsharm07&layout=compact&theme=tokyonight)
+### 💻 Projects  
+🔹 [Weather Forecasting System Using Python](https://github.com/Harshitvit/Weather-Forecasting)  
+Developed a real-time weather forecasting app using Python APIs, Excel data storage, and automation for live updates.
+
+🔹 [PetsCare](https://github.com/Harshitvit/PetsCare)  
+Built a pet adoption and care platform enabling community engagement, pet listings, and real-time interaction.
 
 ---
 
-⭐️ From [@Santoshsharm07](https://github.com/Santoshsharm07)
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitvit&show_icons=true&theme=tokyonight" alt="Harshit's GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitvit&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitvit&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitvit&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+⭐️ From [@Harshitvit](https://github.com/Harshitvit)
