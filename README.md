@@ -74,12 +74,7 @@ Built a pet adoption and care platform enabling community engagement, pet listin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitvit&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitvit&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitvit&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
+
 
 ---
 
