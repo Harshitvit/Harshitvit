@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Computer Science Graduate From VIT Bhopal | Data Analytics & Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+VIT+Bhopal;Data+Analytics+%7C+Web+Development+%7C+Python;Always+learning+new+technologies+💡;Let's+build+something+amazing+together+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+From+VIT+Bhopal;Data+Analytics+%7C+Web+Development+%7C+Python;Always+learning+new+technologies+💡;Let's+build+something+amazing+together+🚀" alt="Typing SVG">
 </p>
 
 ---
